@@ -1,0 +1,267 @@
+{
+  "products": [
+    {
+      "categoryId": 2,
+      "productName": "pents",
+      "description": "production description here",
+      "rating": "",
+      "price": "120",
+      "productImg": "assets/img.jpeg",
+      "isAvailable": 1,
+      "color": "red",
+      "reviews": "",
+      "id": 4
+    },
+    {
+      "categoryId": 2,
+      "productName": "tshirt",
+      "description": "production description here",
+      "rating": "",
+      "price": "120",
+      "productImg": "assets/img.jpeg",
+      "isAvailable": 1,
+      "color": "red",
+      "reviews": "",
+      "id": 4
+    },
+    {
+      "categoryId": 2,
+      "productName": "tshirt",
+      "description": "production description here",
+      "rating": "",
+      "price": "120",
+      "productImg": "assets/img.jpeg",
+      "isAvailable": 1,
+      "color": "red",
+      "reviews": "",
+      "id": 4
+    },
+    {
+      "categoryId": 2,
+      "productName": "tshirt",
+      "description": "production description here",
+      "rating": "",
+      "price": "120",
+      "productImg": "assets/img.jpeg",
+      "isAvailable": 1,
+      "color": "red",
+      "reviews": "",
+      "id": 4
+    },
+    {
+      "categoryId": 2,
+      "productName": "tshirt",
+      "description": "production description here",
+      "rating": "",
+      "price": "120",
+      "productImg": "assets/img.jpeg",
+      "isAvailable": 1,
+      "color": "red",
+      "reviews": "",
+      "id": 4
+    },
+    {
+      "categoryId": 2,
+      "productName": "tshirt",
+      "description": "production description here",
+      "rating": "",
+      "price": "120",
+      "productImg": "assets/img.jpeg",
+      "isAvailable": 1,
+      "color": "red",
+      "reviews": "",
+      "id": 4
+    },
+    {
+      "categoryId": 4,
+      "productName": "tshirt",
+      "description": "production description here",
+      "rating": "",
+      "price": "120",
+      "productImg": "assets/img.jpeg",
+      "isAvailable": 1,
+      "color": "red",
+      "reviews": "",
+      "id": 4
+    },
+    {
+      "categoryId": 3,
+      "productName": "tshirt",
+      "description": "production description here",
+      "rating": "",
+      "price": "120",
+      "productImg": "assets/img.jpeg",
+      "isAvailable": 1,
+      "color": "red",
+      "reviews": "",
+      "id": 4
+    },
+    {
+      "categoryId": 2,
+      "productName": "tshirt",
+      "description": "production description here",
+      "rating": "",
+      "price": "120",
+      "productImg": "assets/img.jpeg",
+      "isAvailable": 1,
+      "color": "red",
+      "reviews": "",
+      "id": 4
+    },
+    {
+      "categoryId": 1,
+      "productName": "tshirt",
+      "description": "production description here",
+      "rating": "",
+      "price": "120",
+      "productImg": "assets/img.jpeg",
+      "isAvailable": 1,
+      "color": "red",
+      "reviews": "",
+      "id": 4
+    },
+    {
+      "categoryId": 3,
+      "productName": "tshirt",
+      "description": "production description here",
+      "rating": "",
+      "price": "120",
+      "productImg": "assets/img.jpeg",
+      "isAvailable": 1,
+      "color": "red",
+      "reviews": "",
+      "id": 4
+    },
+    {
+      "categoryId": 2,
+      "productName": "tshirt",
+      "description": "production description here",
+      "rating": "",
+      "price": "1200",
+      "productImg": "assets/img4.jpeg",
+      "isAvailable": 1,
+      "color": "red",
+      "reviews": "",
+      "id": 6
+    },
+    {
+      "id": 14,
+      "categoryId": "1",
+      "description": "new with img",
+      "rating": "",
+      "price": "1000",
+      "productImg": "assets/img2.jpeg",
+      "isAvailable": 1,
+      "color": "green"
+    },
+    {
+      "categoryId": "1",
+      "productName": "jeans",
+      "description": "pant",
+      "rating": "",
+      "price": "1000",
+      "productImg": "assets/pant.jpeg",
+      "isAvailable": 1,
+      "color": "blue",
+      "reviews": "",
+      "id": "15"
+    },
+    {
+      "id": "1",
+      "categoryId": "1",
+      "productName": "jeans",
+      "description": "mn",
+      "rating": "2",
+      "price": "900",
+      "productImg": "assets/pant.jpeg",
+      "isAvailable": 1,
+      "color": "blue",
+      "reviews": "3"
+    },
+    {
+      "productName": "",
+      "id": "jtlF2K_"
+    },
+    {
+      "productName": "",
+      "id": "hnyMHQO"
+    },
+    {
+      "productName": "",
+      "id": "N5lgxIX"
+    },
+    {
+      "categoryId": "",
+      "id": "dq29n1L"
+    },
+    {
+      "categoryId": "",
+      "id": "2FwQTVT"
+    },
+    {
+      "categoryId": "",
+      "id": "4Wxtg5O"
+    },
+    {
+      "categoryId": "",
+      "id": "A8nQ_PM"
+    },
+    {
+      "categoryId": "",
+      "id": "yl2E9cD"
+    },
+    {
+      "categoryId": "",
+      "id": "e_wnsxV"
+    },
+    {
+      "categoryId": "",
+      "id": "I20IZYF"
+    },
+    {
+      "categoryId": "",
+      "id": "MOvYHWo"
+    },
+    {
+      "categoryId": "",
+      "id": "VuK6xuT"
+    },
+    {
+      "categoryId": "",
+      "id": "WFh2URL"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "pents"
+    },
+    {
+      "id": 2,
+      "categoryName": "tshirts"
+    },
+    {
+      "id": 3,
+      "categoryName": "checkshirt"
+    },
+    {
+      "id": 4,
+      "categoryName": "laptop"
+    },
+    {
+      "id": "5",
+      "categoryName": "tv"
+    },
+    {
+      "categoryName": 2,
+      "id": "vQB4OI-"
+    },
+    {
+      "categoryName": 2,
+      "id": "fy7l5gJ"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
